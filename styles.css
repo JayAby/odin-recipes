@@ -1,0 +1,23 @@
+
+.header{
+    background-color: azure;
+    font-size: 24px;
+    padding: 8px 16px;
+    margin: 16px;
+    text-align: center;
+}
+
+.list{
+    background-color: cornsilk;
+    font-size: 16px;
+    text-align: center;
+}
+
+#one{
+    padding: 8px 24px;
+    margin-bottom: 10px;
+}
+
+#two{
+    padding: 16px;
+}
